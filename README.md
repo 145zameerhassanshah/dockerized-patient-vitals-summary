@@ -242,10 +242,3 @@ Building a custom image
 Running a custom container
 ```
 
-## Author
-
-**Zameer Hassan Shah**  
-Software Engineer | Applied AI/ML
-
-LinkedIn: https://www.linkedin.com/in/zameer-hassan-shah  
-Portfolio: https://zameer-portfolio-jade.vercel.app/
